@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.postgres',
     'django_jsonform',
+    'demoapp.apps.DemoAppConfig',
 ]
 
 MIDDLEWARE = [
